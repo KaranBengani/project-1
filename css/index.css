@@ -10,8 +10,8 @@
     background-color: #fff;
 }
 .btn {
-    color: var(--highlights);
-    border-color: var(--highlights);
+    color: #6351ce;
+    border-color: #6351ce;
 }
 header{
     margin-top: 12rem;
