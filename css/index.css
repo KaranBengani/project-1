@@ -13,6 +13,12 @@
     color: #6351ce;
     border-color: #6351ce;
 }
+.bg-light{
+    background-color: var(--highlights)!important;
+}
+.nav-link{
+    color: #fff!important;
+}
 header{
     margin-top: 12rem;
 }
